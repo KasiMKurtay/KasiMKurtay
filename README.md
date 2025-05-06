@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasimkurtay&show_icons=true&locale=en" alt="kasimkurtay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasimkurtay&" alt="kasimkurtay" /></p>
+
+![Snake animation](https://github.com/KasiMKurtay/KasiMKurtay/blob/output/github-snake.svg)
